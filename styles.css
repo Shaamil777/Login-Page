@@ -1,0 +1,29 @@
+*{
+    color: white;
+}
+
+
+
+.container-fluid,.box-1-dt {
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.box-1 {
+    height: 45vh;
+    width: 30vw;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-image: url(imgs/Free\ \ Wallpaper\,\ Black\,\ Flat\ Background\ Images\,\ H5\ Flat\ Black\ Background\ Photo\ Background\ PNG\ and\ Vectors.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.frm{
+    padding: 4%;
+    margin-top: 5%;
+}
+
